@@ -23,7 +23,7 @@ I will be using my p5js bowling project to create this real-time leaderboard. I 
 <script src="app.js" type="text/javascript"></script>
 ```
  
-In order to create a leaderboard, I am going to have to take in two values: a name and score. In order to create an input and a submit button in p5js, the p5.dom library is required(which can be obtained at the p5js website or this project’s github repo in the next section). This is how to create a basic text box and submit button in p5js respectively:
+In order to create a leaderboard, I am going to have to take in two values: a name and score. In order to create an input and a submit button in p5js, the p5.dom library is required(which can be obtained at the p5js website or this project’s GitHub repo in the next section). This is how to create a basic text box and submit button in p5js respectively:
 
 ``` javascript
 var intialInput = createInput('Name')
@@ -64,7 +64,7 @@ var database = firebase.database(); //entire realtime database in a variable
 Next, in order to structure my data, I need to create a reference point in which I will send the data to. In order to that I will need to create another variable: 
 
 ```javascript
-var ref= database.ref('scores')
+var ref= database.ref('scores'); //reference to 'scores' in  database 
 ```
 However, I needed to keep in mind that I would need to declare this variable one the user actually submits scores. Therefore, I created a function called submiteScores in which I organized the data as a JSON object:   
 
@@ -91,7 +91,7 @@ __Next Steps__: Retrieving data, using data, starting a Firebase WebChat Tutoria
 
 ## "Standing on the Shoulders of Giants"
 
-Once finishing this Daniel Shiffman’s tutorial, I myself will share the github repository with hope to help others in understanding Firebase. That being said, I couldn’t have learned so much without Shiffman’s very informative and helpful [video](https://www.youtube.com/watch?v=7lEU1UEw3YI) regarding this topic.  
+Once finishing this Daniel Shiffman’s tutorial, I myself will share the GitHub repository with hope to help others in understanding Firebase. That being said, I couldn’t have learned so much without Shiffman’s very informative and helpful [video](https://www.youtube.com/watch?v=7lEU1UEw3YI) regarding this topic.  
 
 
 
