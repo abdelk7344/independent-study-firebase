@@ -6,3 +6,4 @@
 + [Entry 2: Processing with Firebase Continued](entries/entry2.md)
 + [Entry 3: The Not-So-Friendly-Webchat Tutorial](entries/entry3.md)
 + [Entry 4: Pause...Deploying Messenger 2.0](entries/entry4.md)
++ [Entry 5: Javascript and APIs ](entries/entry5.md)
