@@ -1,6 +1,6 @@
 # Pause...Deploying Messenger 2.0
 
-## A Brief Breeze Intro
+## A Brief and Breezy Intro
 I wanted to do so much week four; however, everything did not go as planned. I was time constrained and conflicted with another firebase issue that I had not taken into account. After completing the lab, I noticed that people cannot actually utilize it because it was in development mode. Therefore, I dedicate this week to trying to quickly figure that out and then learning javascript with APIs. Unfortunately, I was able to only deploy my friendly web chat app, but, fortunately, you can utilize this app by clicking this [link](https://friendlywebchat-5f5ac.firebaseapp.com). In the following entry, I will briefly talk about the challenges I faced deploying this web application utilizing firebase.
 
 ## Database Security Rules 
