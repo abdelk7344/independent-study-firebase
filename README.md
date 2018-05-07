@@ -7,3 +7,4 @@
 + [Entry 3: The Not-So-Friendly-Webchat Tutorial](entries/entry3.md)
 + [Entry 4: Pause...Deploying Messenger 2.0](entries/entry4.md)
 + [Entry 5: Javascript and APIs ](entries/entry5.md)
++ [Entry 6: Javascript and APIs 2.0 ](entries/entry6.md)
