@@ -8,3 +8,4 @@
 + [Entry 4: Pause...Deploying Messenger 2.0](entries/entry4.md)
 + [Entry 5: Javascript and APIs ](entries/entry5.md)
 + [Entry 6: Javascript and APIs 2.0 ](entries/entry6.md)
++ [Entry 7: Books Are Far More Complicated Than We Think](entries/entry7.md)
