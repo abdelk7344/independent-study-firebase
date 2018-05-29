@@ -10,3 +10,4 @@
 + [Entry 6: Javascript and APIs 2.0 ](entries/entry6.md)
 + [Entry 7: Books Are Far More Complicated Than We Think](entries/entry7.md)
 + [Entry 8: The Fantastic Booklastic](entries/entry8.md)
++ [Entry 9: “You can learn as you please, but learn by teaching others.”](entries/entry9.md)
